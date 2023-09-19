@@ -16,7 +16,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 Clone the project
 
 ```bash
-  git clone https://github.com/bravedevrabbit/TalkATive_Chat_MERN-SocketIO.git
+  git clone https://github.com/deverabit/TalkATive_Chat_MERN-SocketIO.git
 ```
 
 Go to the project directory
